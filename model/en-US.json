@@ -1,0 +1,85 @@
+{
+    "interactionModel": {
+        "languageModel": {
+            "invocationName": "music ground",
+            "intents": [
+                {
+                    "name": "AMAZON.CancelIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.HelpIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.StopIntent",
+                    "samples": []
+                },
+                {
+                    "name": "PlayAudio",
+                    "slots": [],
+                    "samples": [
+                        "to start music",
+                        "to play music",
+                        "start the music",
+                        "start music",
+                        "begin music",
+                        "play music",
+                        "begin audio",
+                        "begin the audio",
+                        "begin playing the audio",
+                        "start audio",
+                        "start the audio",
+                        "start playing the audio",
+                        "play the audio",
+                        "to play",
+                        "to begin audio",
+                        "to begin the audio",
+                        "to begin playing the audio",
+                        "to start audio",
+                        "to start the audio",
+                        "to start playing the audio",
+                        "to play the music"
+                    ]
+                },
+                {
+                    "name": "AMAZON.PauseIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.ResumeIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.PreviousIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.StartOverIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.YesIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.NoIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.NextIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.NavigateHomeIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.FallbackIntent",
+                    "samples": []
+                }
+            ],
+            "types": []
+        }
+    }
+}
